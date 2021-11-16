@@ -43,7 +43,8 @@
  <a href="https://www.linkedin.com/in/pedro-vin%C3%ADcius-rodrigues-furlan-a691bb10a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" /></a>
 
 </div>
-  
+   
+ ![snake gif](https://github.com/pedrops123/pedrops123/blob/output/github-contribution-grid-snake.gif)
   <!--
 **pedrops123/pedrops123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
