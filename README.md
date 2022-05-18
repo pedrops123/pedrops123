@@ -5,13 +5,6 @@
   <div style="display:flex; text-align:center;" align="center">
    Olá sou desenvolvedor , formado em Analise e desenvolvimento de sistemas , procurando sempre inovar e aprender novos métodos e tecnologias. Aqui se encontra meu laboratório, onde consigo testar , replicar e aprender novos métodos de desenvolvimento. Fique à vontade para entrar em cada repositório e entender um pouco mais do meu trabalho.
   </div>
-   <br/><br/>
-<div align="center">
-  <a href="https://github.com/pedrops123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrops123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrops123&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
   <br/><br/>
    <div style="display:flex; text-align:center;" align="center">
       <b>Tecnologias que utilizo:</b>
